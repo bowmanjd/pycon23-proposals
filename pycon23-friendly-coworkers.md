@@ -47,3 +47,10 @@ Discussion (5 minutes)
 
 Currently a software engineer using SQL to convert data between systems, I have been a middle and high school teacher, software developer, IT director, data wrangler, and always a hobbyist developer. I feel comfortable in front of people. My co-workers don't use Python, either (yet).
 
+I just presented at OLF (Ohio LinuxFest) on December 2, 2022, on using Python to manage Linux systems. Slides are available at olf22.bowmanjd.com and the video can be viewed on Youtube at https://youtu.be/DjOgRbHnvwU?t=465 (should start around 7 minutes, 45 seconds in).
+
+A slide deck for a 2019 talk I gave at a local tech conference, introducing Python to IT professionals: bowmanjd.github.io/ttl/python-data/#1
+
+linkedin.com/in/jonathan-d-bowman/
+twitter.com/jdbowman
+Various blog articles at dev.to/bowmanjd
